@@ -1,0 +1,6 @@
+{
+  "name": "SN TEKKEN",
+  "description": "Offline 3D arcade animal warriors fighting game featuring Iron Buffalo, Titan Rhino, Shadow Tiger, Inferno Dragon, and the Shadow Dragon Overlord boss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

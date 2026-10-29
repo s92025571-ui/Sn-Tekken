@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SN TEKKEN</string>
+    <string name="subtitle_animal_warriors">ANIMAL WARRIORS</string>
+    <string name="arena_name">BEAST BATTLE ARENA</string>
+    <string name="menu_play_arcade">ARCADE CAMPAIGN</string>
+    <string name="menu_select_fighter">FIGHTER ROSTER</string>
+    <string name="menu_settings">SETTINGS</string>
+    <string name="menu_sound_on">SOUND: ON</string>
+    <string name="menu_sound_off">SOUND: OFF</string>
+    <string name="badge_offline_free">100% FREE • OFFLINE 3D ENGINE</string>
+    <string name="btn_start_battle">ENTER BEAST ARENA</string>
+    <string name="btn_back">BACK</string>
+    <string name="btn_next_battle">NEXT BATTLE</string>
+    <string name="btn_retry_battle">REMATCH</string>
+    <string name="btn_restart_campaign">RESTART CAMPAIGN</string>
+    <string name="btn_return_menu">MAIN MENU</string>
+    <string name="ctrl_punch">PUNCH</string>
+    <string name="ctrl_kick">KICK</string>
+    <string name="ctrl_heavy">HEAVY</string>
+    <string name="ctrl_block">BLOCK</string>
+    <string name="ctrl_dodge">DODGE</string>
+    <string name="ctrl_special">SPECIAL</string>
+    <string name="ctrl_ultimate">ULTIMATE</string>
+    <string name="ctrl_jump">JUMP</string>
+    <string name="boss_warning_phase2">PHASE 2: OVERLORD FURY AWAKENED!</string>
+    <string name="boss_warning_attack">INCOMING LETHAL STRIKE — DODGE OR BLOCK!</string>
+    <string name="settings_title">COMBAT &amp; SYSTEM SETTINGS</string>
+    <string name="settings_haptics">Haptic Impact Feedback</string>
+    <string name="settings_difficulty">AI Combat Intensity</string>
+    <string name="settings_camera_shake">Cinematic Camera Shake</string>
+    <string name="settings_reset_progress">Reset Offline Arcade Progress</string>
+</resources>
